@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "Home": "الرئيسيه",
+    "About": "ماذا عنا",
+    "Contact": "اتصل بنا",
+    "Products": "المنتجات"
+  },
+  "meta":{
+    "Home": "الرئيسيه",
+    "About": "ماذا عنا",
+    "Contact": "اتصل بنا",
+    "Products": "المنتجات"
+  },
+  "content": {
+    "Home content": "محتوي الرئيسيه",
+    "About content": "محتوي ماذا عنا",
+    "Contact content": "محتوي إتصل بنا",
+    "Products list": "عرض المنتجات",
+    "Page not found": "الصفحه غير موجوده"
+  }
+}

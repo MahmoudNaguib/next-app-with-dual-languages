@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "Home": "Home",
+    "About": "About",
+    "Contact": "Contact",
+    "Products": "Products"
+  },
+  "meta": {
+    "Home": "Home",
+    "About": "About",
+    "Contact": "Contact",
+    "Products": "Products"
+  },
+  "content": {
+    "Home content": "Home content",
+    "About content": "About content",
+    "Contact content": "Contact content",
+    "Products list": "Products list",
+    "Page not found": "Page not found"
+  }
+}
